@@ -1,0 +1,44 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.titolo{
+    text-align: center;
+}
+.sottotitolo{
+    text-align:center ;
+}
+.container-flex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+}
+    
+.font{
+    font-size: small;
+}
+.card{
+    display: flex;
+    align-items: end;
+    
+}
+.color-red{
+    color: rgb(155, 5, 5);
+}
+.testo-barrato{
+    text-decoration: line-through;
+}
+.dimensioni{
+    width: 275px;
+    height: 375px;
+    
+
+}
+.card-text{
+    
+    
+    
+}
